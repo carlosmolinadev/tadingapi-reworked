@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Riok.Mapperly/3.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Riok.Mapperly.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Riok.Mapperly.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "TradingApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TradingApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TradingApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Riok.Mapperly/3.2.0": {
+      "sha512": "EChq4G7PmEXhaPH4Ztw/CiHQ9iVg30Ir58vTA2MgGLsI+ciza5H4boLNK+mk+ik3eStwuA+ZeAxb4mhXVeDgFQ==",
+      "type": "package",
+      "path": "riok.mapperly/3.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "analyzers/roslyn4.0/dotnet/cs/Riok.Mapperly.Abstractions.dll",
+        "analyzers/roslyn4.0/dotnet/cs/Riok.Mapperly.dll",
+        "analyzers/roslyn4.4/dotnet/cs/Riok.Mapperly.Abstractions.dll",
+        "analyzers/roslyn4.4/dotnet/cs/Riok.Mapperly.dll",
+        "analyzers/roslyn4.5/dotnet/cs/Riok.Mapperly.Abstractions.dll",
+        "analyzers/roslyn4.5/dotnet/cs/Riok.Mapperly.dll",
+        "analyzers/roslyn4.7/dotnet/cs/Riok.Mapperly.Abstractions.dll",
+        "analyzers/roslyn4.7/dotnet/cs/Riok.Mapperly.dll",
+        "lib/netstandard2.0/Riok.Mapperly.Abstractions.dll",
+        "lib/netstandard2.0/Riok.Mapperly.Abstractions.xml",
+        "logo.png",
+        "riok.mapperly.3.2.0.nupkg.sha512",
+        "riok.mapperly.nuspec"
+      ]
+    },
+    "TradingApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TradingApp.Domain/TradingApp.Domain.csproj",
+      "msbuildProject": "../TradingApp.Domain/TradingApp.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Riok.Mapperly >= 3.2.0",
+      "TradingApp.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/carlos/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/TradingApp.Application.csproj",
+      "projectName": "TradingApp.Application",
+      "projectPath": "/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/TradingApp.Application.csproj",
+      "packagesPath": "/home/carlos/.nuget/packages/",
+      "outputPath": "/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/carlos/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Domain/TradingApp.Domain.csproj": {
+              "projectPath": "/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Domain/TradingApp.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Riok.Mapperly": {
+            "target": "Package",
+            "version": "[3.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

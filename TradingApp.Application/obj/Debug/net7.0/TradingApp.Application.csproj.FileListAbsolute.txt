@@ -1,0 +1,15 @@
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/bin/Debug/net7.0/TradingApp.Application.deps.json
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/bin/Debug/net7.0/TradingApp.Application.dll
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/bin/Debug/net7.0/TradingApp.Application.pdb
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/bin/Debug/net7.0/TradingApp.Domain.dll
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/bin/Debug/net7.0/TradingApp.Domain.pdb
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/obj/Debug/net7.0/TradingApp.Application.csproj.AssemblyReference.cache
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/obj/Debug/net7.0/TradingApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/obj/Debug/net7.0/TradingApp.Application.AssemblyInfoInputs.cache
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/obj/Debug/net7.0/TradingApp.Application.AssemblyInfo.cs
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/obj/Debug/net7.0/TradingApp.Application.csproj.CoreCompileInputs.cache
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/obj/Debug/net7.0/TradingApp.Application.csproj.CopyComplete
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/obj/Debug/net7.0/TradingApp.Application.dll
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/obj/Debug/net7.0/refint/TradingApp.Application.dll
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/obj/Debug/net7.0/TradingApp.Application.pdb
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Application/obj/Debug/net7.0/ref/TradingApp.Application.dll

@@ -1,0 +1,27 @@
+{
+    "symbolName": "BTCUSDT",
+    "side": "BUY",
+    "riskReward": 0,
+    "retryAttempt": 0,
+    "candleClosedEntry": true,
+    "accountId": "ab4a267e-73cc-44d4-a51e-a4002b21b64e",
+    "percentageEntry": true,
+    "defaultAmount": true,
+    "orderParameters": [
+        {
+            "price": 35000,
+            "orderType": "Limit",
+            "orderParameterType": "Open"
+        },
+        {
+            "price": 34000,
+            "orderType": "Limit",
+            "orderParameterType": "StopLoss"
+        },
+        {
+            "price": 38000,
+            "orderType": "Limit",
+            "orderParameterType": "TakeProfit"
+        }
+    ]
+}

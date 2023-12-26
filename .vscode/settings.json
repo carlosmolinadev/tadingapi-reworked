@@ -1,0 +1,9 @@
+{
+    "rest-client.environmentVariables": {
+        "$shared": {},
+        "tradingAppTest":{
+            "host": "https://localhost:7001",
+            "authToken": "Testing"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TradingApp.Application/1.0.0": {
+        "dependencies": {
+          "Riok.Mapperly": "3.2.0",
+          "TradingApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TradingApp.Application.dll": {}
+        }
+      },
+      "Riok.Mapperly/3.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/Riok.Mapperly.Abstractions.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.0"
+          }
+        }
+      },
+      "TradingApp.Domain/1.0.0": {
+        "runtime": {
+          "TradingApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TradingApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Riok.Mapperly/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EChq4G7PmEXhaPH4Ztw/CiHQ9iVg30Ir58vTA2MgGLsI+ciza5H4boLNK+mk+ik3eStwuA+ZeAxb4mhXVeDgFQ==",
+      "path": "riok.mapperly/3.2.0",
+      "hashPath": "riok.mapperly.3.2.0.nupkg.sha512"
+    },
+    "TradingApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,58 @@
+###
+GET {{host}}/trade/getAccount
+content-type: application/json
+Authorization: {{authToken}}
+
+###
+
+POST {{host}}/trade/createAccount
+content-type: application/json
+Authorization: {{authToken}}
+
+{
+  "balance": 150,
+  "portfolioExposure": 1,
+  "userId": "b5880a84-6e48-4202-b439-489c5fae4c7f",
+  "exchangeId": 1
+}
+
+###
+
+PUT {{host}}/trade/updateAccount
+content-type: application/json
+Authorization: {{authToken}}
+
+{
+  "balance": 150,
+  "portfolioExposure": 1,
+  "exchangeId": 2,
+  "accountId": "4a19b94e-da49-4f40-bb23-b055e2082ee6",
+  "id": "d97b3f06-fb5c-4db9-9a7b-437179c87dc7"
+}
+
+###
+
+POST {{host}}/trade/AddTrade
+content-type: application/json
+
+{
+  "symbolName": "BTCUSDT",
+  "side": "BUY",
+  "riskReward": 1,
+  "retryAttempt": 0,
+  "candleClosedEntry": true,
+  "delayedEntry": 0,
+  "accountId": "c3231bb4-af8b-46a6-9554-b80284169011",
+  "orderParameters": [
+    {
+      "price": 35000,
+      "orderType": "Limit",
+      "orderParameterType": "Open",
+      "amount": 100
+    }
+  ]
+}
+
+
+###
+

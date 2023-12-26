@@ -1,0 +1,17 @@
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/bin/Debug/net7.0/TradingApp.Infrastructure.deps.json
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/bin/Debug/net7.0/TradingApp.Infrastructure.dll
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/bin/Debug/net7.0/TradingApp.Infrastructure.pdb
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/bin/Debug/net7.0/TradingApp.Application.dll
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/bin/Debug/net7.0/TradingApp.Domain.dll
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/bin/Debug/net7.0/TradingApp.Application.pdb
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/bin/Debug/net7.0/TradingApp.Domain.pdb
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/obj/Debug/net7.0/TradingApp.Infrastructure.csproj.AssemblyReference.cache
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/obj/Debug/net7.0/TradingApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/obj/Debug/net7.0/TradingApp.Infrastructure.AssemblyInfoInputs.cache
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/obj/Debug/net7.0/TradingApp.Infrastructure.AssemblyInfo.cs
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/obj/Debug/net7.0/TradingApp.Infrastructure.csproj.CoreCompileInputs.cache
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/obj/Debug/net7.0/TradingApp.Infrastructure.csproj.CopyComplete
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/obj/Debug/net7.0/TradingApp.Infrastructure.dll
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/obj/Debug/net7.0/refint/TradingApp.Infrastructure.dll
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/obj/Debug/net7.0/TradingApp.Infrastructure.pdb
+/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/obj/Debug/net7.0/ref/TradingApp.Infrastructure.dll

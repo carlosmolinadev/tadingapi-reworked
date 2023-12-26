@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NEoyE++V2hyGPIgZS6gLZ/kjNCoxh52P9PoDZ1UH8bO1bGL7I03UCqKtK5qc/yGgDB4o7EiH9eZf6iP5K6QW9w==",
+  "success": true,
+  "projectFilePath": "/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Infrastructure/TradingApp.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/home/carlos/.nuget/packages/dapper/2.1.15/dapper.2.1.15.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/npgsql/8.0.0/npgsql.8.0.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/riok.mapperly/3.2.0/riok.mapperly.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

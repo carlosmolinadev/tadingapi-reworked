@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "bdE/nLXNx0ngKsu70zzym43FyCXZQqUTnvFjbbYwAiMtNqHt1sJoB43vyjOekF8/PrYxCoA+bGDvdriyg9bQQQ==",
+  "success": true,
+  "projectFilePath": "/home/carlos/Documents/Repos/TradingAppDrivenDesign/src/TradingApp.Api/TradingApp.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/carlos/.nuget/packages/dapper/2.1.15/dapper.2.1.15.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/carlos/.nuget/packages/npgsql/8.0.0/npgsql.8.0.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/riok.mapperly/3.2.0/riok.mapperly.3.2.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/carlos/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
